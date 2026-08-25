@@ -1,0 +1,23 @@
+<meta>
+
+    <info
+        name="Empty World Test"
+        author="Peter"
+        version="0.1"
+    />
+
+    <script
+        src="client.lua"
+        type="client"
+    />
+
+    <script
+        src="server.lua"
+        type="server"
+    />
+
+    <file src="models/01.dff" />
+    <file src="models/01.txd" />
+    <file src="models/01.col" />
+
+</meta>

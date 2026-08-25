@@ -1,0 +1,308 @@
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..game/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2026-08-23 15:24:29] File 'settings.xml' not present, creating new node.
+[2026-08-23 15:24:32] Resource 'runcode' requests some acl rights. Use the command 'aclrequest list runcode'
+[2026-08-23 15:24:33] Resources: 202 loaded, 0 failed
+[2026-08-23 15:24:33] Starting resources...
+[2026-08-23 15:24:33] Admin access list successfully updated 
+[2026-08-23 15:24:33] INFO: Admin added 610 missing rights
+[2026-08-23 15:24:33] Server minclientversion is now 1.5.9-9.20957.0
+[2026-08-23 15:24:33] Server minclientversion is now 1.6.0-9.22676
+[2026-08-23 15:24:33] Server minclientversion is now 1.6.0-9.22815
+[2026-08-23 15:24:33] Gamemode 'play' started.
+[2026-08-23 15:24:33] Querying MTA master server... success! 
+[2026-08-23 15:24:33] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2026-08-23 15:24:33] WARNING: <owner_email_address> not set
+[2026-08-23 15:24:33] Server started and is ready to accept connections!
+[2026-08-23 15:24:33] To stop the server, type 'shutdown' or press Ctrl-C
+[2026-08-23 15:24:33] Type 'help' for a list of commands.
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..game/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2026-08-23 15:24:42] Compacting accounts database 'internal.db' ...
+[2026-08-23 15:24:43] Resource 'runcode' requests some acl rights. Use the command 'aclrequest list runcode'
+[2026-08-23 15:24:43] Resources: 202 loaded, 0 failed
+[2026-08-23 15:24:43] Compacting database 'registry.db' ...
+[2026-08-23 15:24:43] Starting resources...
+[2026-08-23 15:24:43] Server minclientversion is now 1.6.0-9.24109.0
+[2026-08-23 15:24:44] Gamemode 'play' started.
+[2026-08-23 15:24:44] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2026-08-23 15:24:44] WARNING: <owner_email_address> not set
+[2026-08-23 15:24:44] Server started and is ready to accept connections!
+[2026-08-23 15:24:44] To stop the server, type 'shutdown' or press Ctrl-C
+[2026-08-23 15:24:44] Type 'help' for a list of commands.
+[2026-08-23 15:24:44] Querying MTA master server... success! 
+[2026-08-23 15:25:25] CONNECT: ImpartialBurglar42 connected (IP: 192.168.1.74  Serial: 1DD71214348F60C9C89E222CCEC580B2  Version: 1.6.0-9.24140.0)
+[2026-08-23 15:25:27] JOIN: ImpartialBurglar42 joined the game (IP: 192.168.1.74)
+[2026-08-23 15:26:18] New resource 'province' loaded
+[2026-08-23 15:26:18] Resources: 203 loaded, 0 failed
+[2026-08-23 15:26:29] start: Requested by Console
+[2026-08-23 15:26:29] Initiating changemode from 'play' to 'province'
+[2026-08-23 15:26:29] start: Resource 'province' start was requested (Start cancelled by script)
+[2026-08-23 15:26:29] Stopping play
+[2026-08-23 15:26:29] Stopping freeroam
+[2026-08-23 15:26:30] Stopping playerblips
+[2026-08-23 15:26:30] Stopping internetradio
+[2026-08-23 15:26:30] Stopping superman
+[2026-08-23 15:26:30] Stopping hedit
+[2026-08-23 15:26:30] Stopping mapfixes
+[2026-08-23 15:26:30] Stopping chatmanager
+[2026-08-23 15:26:30] Starting province
+[2026-08-23 15:26:30] Gamemode 'Province Learning' started.
+[2026-08-23 15:26:30] startResource: Resource 'province' started
+[2026-08-23 17:49:20] New resource 'test_world' loaded
+[2026-08-23 17:49:20] Resources: 204 loaded, 0 failed
+[2026-08-23 17:49:35] start: Requested by Console
+[2026-08-23 17:49:35] Starting test_world
+[2026-08-23 17:49:35] start: Resource 'test_world' started
+[2026-08-23 17:49:52] QUIT: ImpartialBurglar42 left the game [Quit] 
+[2026-08-23 17:50:42] CONNECT: ImpartialBurglar42 connected (IP: 192.168.1.74  Serial: 1DD71214348F60C9C89E222CCEC580B2  Version: 1.6.0-9.24140.0)
+[2026-08-23 17:50:43] JOIN: ImpartialBurglar42 joined the game (IP: 192.168.1.74)
+[2026-08-23 18:01:45] ACL: Denied 'ImpartialBurglar42' access to command 'debugscript'
+[2026-08-23 18:03:44] start: Requested by Console
+[2026-08-23 18:03:44] start: Resource 'test_world' is already running
+[2026-08-23 18:04:01] QUIT: ImpartialBurglar42 left the game [Quit] 
+[2026-08-23 18:04:05] CONNECT: ImpartialBurglar42 connected (IP: 192.168.1.74  Serial: 1DD71214348F60C9C89E222CCEC580B2  Version: 1.6.0-9.24140.0)
+[2026-08-23 18:04:05] JOIN: ImpartialBurglar42 joined the game (IP: 192.168.1.74)
+[2026-08-23 18:05:14] restart: Requested by Console
+[2026-08-23 18:05:14] restart: Resource 'test_world' restarting...
+[2026-08-23 18:05:14] Stopping test_world
+[2026-08-23 18:05:14] Resource 'test_world' changed, reloading and starting
+[2026-08-23 18:05:14] Starting test_world
+[2026-08-23 18:05:14] test_world restarted successfully
+[2026-08-23 18:12:41] restart: Requested by Console
+[2026-08-23 18:12:41] restart: Resource 'test_world' restarting...
+[2026-08-23 18:12:41] Stopping test_world
+[2026-08-23 18:12:41] Resource 'test_world' changed, reloading and starting
+[2026-08-23 18:12:41] Starting test_world
+[2026-08-23 18:12:41] test_world restarted successfully
+[2026-08-23 18:13:18] QUIT: ImpartialBurglar42 left the game [Quit] 
+[2026-08-23 18:13:22] CONNECT: ImpartialBurglar42 connected (IP: 192.168.1.74  Serial: 1DD71214348F60C9C89E222CCEC580B2  Version: 1.6.0-9.24140.0)
+[2026-08-23 18:13:23] JOIN: ImpartialBurglar42 joined the game (IP: 192.168.1.74)
+[2026-08-23 18:22:03] ACCOUNTS: Console added account 'peter'
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..game/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2026-08-23 18:23:19] Resource 'runcode' requests some acl rights. Use the command 'aclrequest list runcode'
+[2026-08-23 18:23:19] Resources: 204 loaded, 0 failed
+[2026-08-23 18:23:19] Starting resources...
+[2026-08-23 18:23:19] Server minclientversion is now 1.6.0-9.24109.0
+[2026-08-23 18:23:19] Gamemode 'play' started.
+[2026-08-23 18:23:19] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2026-08-23 18:23:19] WARNING: <owner_email_address> not set
+[2026-08-23 18:23:19] Server started and is ready to accept connections!
+[2026-08-23 18:23:19] To stop the server, type 'shutdown' or press Ctrl-C
+[2026-08-23 18:23:19] Type 'help' for a list of commands.
+[2026-08-23 18:23:20] Querying MTA master server... success! 
+[2026-08-23 18:23:25] CONNECT: ImpartialBurglar42 connected (IP: 192.168.1.74  Serial: 1DD71214348F60C9C89E222CCEC580B2  Version: 1.6.0-9.24140.0)
+[2026-08-23 18:23:25] JOIN: ImpartialBurglar42 joined the game (IP: 192.168.1.74)
+[2026-08-23 18:23:32] QUIT: ImpartialBurglar42 left the game [Quit] 
+[2026-08-23 18:23:50] start: Requested by Console
+[2026-08-23 18:23:50] Starting test_world
+[2026-08-23 18:23:50] start: Resource 'test_world' started
+[2026-08-23 18:23:55] CONNECT: ImpartialBurglar42 connected (IP: 192.168.1.74  Serial: 1DD71214348F60C9C89E222CCEC580B2  Version: 1.6.0-9.24140.0)
+[2026-08-23 18:23:55] JOIN: ImpartialBurglar42 joined the game (IP: 192.168.1.74)
+[2026-08-23 18:24:38] LOGIN: (Everyone, Admin) ImpartialBurglar42 successfully logged in as 'peter' (IP: 192.168.1.74  Serial: 1DD71214348F60C9C89E222CCEC580B2)
+[2026-08-23 18:26:47] ADMIN: ImpartialBurglar42 has given ImpartialBurglar42 a 'Banshee'" 
+[2026-08-23 18:28:09] restart: Requested by Console
+[2026-08-23 18:28:09] restart: Resource 'test_world' restarting...
+[2026-08-23 18:28:09] Stopping test_world
+[2026-08-23 18:28:10] Resource 'test_world' changed, reloading and starting
+[2026-08-23 18:28:10] Starting test_world
+[2026-08-23 18:28:10] test_world restarted successfully
+[2026-08-23 18:28:40] ADMIN: ImpartialBurglar42 has given a jetpack to ImpartialBurglar42
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..game/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2026-08-23 22:36:39] Resource 'runcode' requests some acl rights. Use the command 'aclrequest list runcode'
+[2026-08-23 22:36:39] Resources: 204 loaded, 0 failed
+[2026-08-23 22:36:39] Starting resources...
+[2026-08-23 22:36:39] Server minclientversion is now 1.6.0-9.24109.0
+[2026-08-23 22:36:39] Gamemode 'play' started.
+[2026-08-23 22:36:39] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2026-08-23 22:36:39] WARNING: <owner_email_address> not set
+[2026-08-23 22:36:39] Server started and is ready to accept connections!
+[2026-08-23 22:36:39] To stop the server, type 'shutdown' or press Ctrl-C
+[2026-08-23 22:36:39] Type 'help' for a list of commands.
+[2026-08-23 22:36:39] Querying MTA master server... success! 
+[2026-08-23 22:36:59] start: Requested by Console
+[2026-08-23 22:36:59] Starting test_world
+[2026-08-23 22:36:59] start: Resource 'test_world' started
+[2026-08-23 22:37:27] CONNECT: ImpartialBurglar42 connected (IP: 192.168.1.74  Serial: 1DD71214348F60C9C89E222CCEC580B2  Version: 1.6.0-9.24140.0)
+[2026-08-23 22:37:28] JOIN: ImpartialBurglar42 joined the game (IP: 192.168.1.74)
+[2026-08-23 22:38:13] start: Requested by Console
+[2026-08-23 22:38:13] start: Resource 'test_world' is already running
+[2026-08-23 22:38:28] restart: Requested by Console
+[2026-08-23 22:38:28] restart: Resource 'test_world' restarting...
+[2026-08-23 22:38:28] Stopping test_world
+[2026-08-23 22:38:28] Starting test_world
+[2026-08-23 22:38:28] test_world restarted successfully
+[2026-08-23 22:41:58] ACL: Denied 'ImpartialBurglar42' access to command 'debugscript'
+[2026-08-23 22:42:34] LOGIN: ImpartialBurglar42 tried to log in as 'admin' (Unknown account) (IP: 192.168.1.74  Serial: 1DD71214348F60C9C89E222CCEC580B2)
+[2026-08-23 22:42:45] LOGIN: (Everyone, Admin) ImpartialBurglar42 successfully logged in as 'peter' (IP: 192.168.1.74  Serial: 1DD71214348F60C9C89E222CCEC580B2)
+[2026-08-23 22:42:48] SCRIPT: ImpartialBurglar42(peter) set their script debug mode to 3
+[2026-08-23 22:59:00] restart: Requested by Console
+[2026-08-23 22:59:00] restart: Resource 'test_world' restarting...
+[2026-08-23 22:59:00] Stopping test_world
+[2026-08-23 22:59:00] Resource 'test_world' changed, reloading and starting
+[2026-08-23 22:59:00] Starting test_world
+[2026-08-23 22:59:01] test_world restarted successfully
+[2026-08-23 22:59:10] QUIT: ImpartialBurglar42 left the game [Quit] 
+[2026-08-23 22:59:21] CONNECT: ImpartialBurglar42 connected (IP: 192.168.1.74  Serial: 1DD71214348F60C9C89E222CCEC580B2  Version: 1.6.0-9.24140.0)
+[2026-08-23 22:59:21] JOIN: ImpartialBurglar42 joined the game (IP: 192.168.1.74)
+[2026-08-23 23:13:33] restart: Requested by Console
+[2026-08-23 23:13:33] restart: Resource 'test_world' restarting...
+[2026-08-23 23:13:33] Stopping test_world
+[2026-08-23 23:13:33] Resource 'test_world' changed, reloading and starting
+[2026-08-23 23:13:33] ERROR: Couldn't find file(s) models/Plane001.dff for resource test_world
+[2026-08-23 23:13:33] Loading of resource 'test_world' failed
+[2026-08-23 23:13:33] ERROR: Unable to restart resource test_world
+[2026-08-23 23:14:39] Resource 'test_world' changed, reloading
+[2026-08-23 23:14:39] New resource 'test_world' loaded
+[2026-08-23 23:14:39] Resources: 204 loaded, 0 failed
+[2026-08-23 23:14:47] start: Requested by Console
+[2026-08-23 23:14:47] Starting test_world
+[2026-08-23 23:14:47] start: Resource 'test_world' started
+[2026-08-23 23:14:59] QUIT: ImpartialBurglar42 left the game [Quit] 
+[2026-08-23 23:15:00] CONNECT: ImpartialBurglar42 connected (IP: 192.168.1.74  Serial: 1DD71214348F60C9C89E222CCEC580B2  Version: 1.6.0-9.24140.0)
+[2026-08-23 23:15:00] JOIN: ImpartialBurglar42 joined the game (IP: 192.168.1.74)
+[2026-08-23 23:15:09] QUIT: ImpartialBurglar42 left the game [Quit] 
+[2026-08-23 23:15:13] CONNECT: ImpartialBurglar42 connected (IP: 192.168.1.74  Serial: 1DD71214348F60C9C89E222CCEC580B2  Version: 1.6.0-9.24140.0)
+[2026-08-23 23:15:13] JOIN: ImpartialBurglar42 joined the game (IP: 192.168.1.74)
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..game/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2026-08-23 23:15:52] Resource 'runcode' requests some acl rights. Use the command 'aclrequest list runcode'
+[2026-08-23 23:15:52] Resources: 204 loaded, 0 failed
+[2026-08-23 23:15:52] Starting resources...
+[2026-08-23 23:15:52] Server minclientversion is now 1.6.0-9.24109.0
+[2026-08-23 23:15:52] Gamemode 'play' started.
+[2026-08-23 23:15:52] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2026-08-23 23:15:52] WARNING: <owner_email_address> not set
+[2026-08-23 23:15:52] Server started and is ready to accept connections!
+[2026-08-23 23:15:52] To stop the server, type 'shutdown' or press Ctrl-C
+[2026-08-23 23:15:52] Type 'help' for a list of commands.
+[2026-08-23 23:15:53] Querying MTA master server... success! 
+[2026-08-23 23:16:08] start: Requested by Console
+[2026-08-23 23:16:08] Starting test_world
+[2026-08-23 23:16:08] start: Resource 'test_world' started
+[2026-08-23 23:16:56] CONNECT: ImpartialBurglar42 connected (IP: 192.168.1.74  Serial: 1DD71214348F60C9C89E222CCEC580B2  Version: 1.6.0-9.24140.0)
+[2026-08-23 23:16:56] JOIN: ImpartialBurglar42 joined the game (IP: 192.168.1.74)
+[2026-08-23 23:17:37] LOGIN: (Everyone, Admin) ImpartialBurglar42 successfully logged in as 'peter' (IP: 192.168.1.74  Serial: 1DD71214348F60C9C89E222CCEC580B2)
+[2026-08-23 23:17:38] SCRIPT: ImpartialBurglar42(peter) set their script debug mode to 3
+[2026-08-23 23:32:25] start: Requested by Console
+[2026-08-23 23:32:25] start: Resource 'test_world' is already running
+[2026-08-23 23:32:44] restart: Requested by Console
+[2026-08-23 23:32:44] restart: Resource 'test_world' restarting...
+[2026-08-23 23:32:44] Stopping test_world
+[2026-08-23 23:32:44] Resource 'test_world' changed, reloading and starting
+[2026-08-23 23:32:44] Starting test_world
+[2026-08-23 23:32:44] test_world restarted successfully
+[2026-08-23 23:32:52] QUIT: ImpartialBurglar42 left the game [Quit] 
+[2026-08-23 23:32:54] CONNECT: ImpartialBurglar42 connected (IP: 192.168.1.74  Serial: 1DD71214348F60C9C89E222CCEC580B2  Version: 1.6.0-9.24140.0)
+[2026-08-23 23:32:54] JOIN: ImpartialBurglar42 joined the game (IP: 192.168.1.74)
+[2026-08-23 23:57:55] restart: Requested by Console
+[2026-08-23 23:57:55] restart: Resource 'test_world' restarting...
+[2026-08-23 23:57:55] Stopping test_world
+[2026-08-23 23:57:55] Resource 'test_world' changed, reloading and starting
+[2026-08-23 23:57:55] Starting test_world
+[2026-08-23 23:57:55] test_world restarted successfully
+[2026-08-23 23:58:02] QUIT: ImpartialBurglar42 left the game [Quit] 
+[2026-08-23 23:58:05] CONNECT: ImpartialBurglar42 connected (IP: 192.168.1.74  Serial: 1DD71214348F60C9C89E222CCEC580B2  Version: 1.6.0-9.24140.0)
+[2026-08-23 23:58:05] JOIN: ImpartialBurglar42 joined the game (IP: 192.168.1.74)
+[2026-08-24 00:01:49] restart: Requested by Console
+[2026-08-24 00:01:49] restart: Resource 'test_world' restarting...
+[2026-08-24 00:01:49] Stopping test_world
+[2026-08-24 00:01:49] Resource 'test_world' changed, reloading and starting
+[2026-08-24 00:01:49] Starting test_world
+[2026-08-24 00:01:49] test_world restarted successfully
+[2026-08-24 00:01:54] QUIT: ImpartialBurglar42 left the game [Quit] 
+[2026-08-24 00:02:00] CONNECT: ImpartialBurglar42 connected (IP: 192.168.1.74  Serial: 1DD71214348F60C9C89E222CCEC580B2  Version: 1.6.0-9.24140.0)
+[2026-08-24 00:02:00] JOIN: ImpartialBurglar42 joined the game (IP: 192.168.1.74)
+[2026-08-24 00:05:08] restart: Requested by Console
+[2026-08-24 00:05:08] restart: Resource 'test_world' restarting...
+[2026-08-24 00:05:08] Stopping test_world
+[2026-08-24 00:05:08] Resource 'test_world' changed, reloading and starting
+[2026-08-24 00:05:08] Starting test_world
+[2026-08-24 00:05:08] test_world restarted successfully
+[2026-08-24 00:05:19] QUIT: ImpartialBurglar42 left the game [Quit] 
+[2026-08-24 00:05:25] CONNECT: ImpartialBurglar42 connected (IP: 192.168.1.74  Serial: 1DD71214348F60C9C89E222CCEC580B2  Version: 1.6.0-9.24140.0)
+[2026-08-24 00:05:25] JOIN: ImpartialBurglar42 joined the game (IP: 192.168.1.74)
+[2026-08-24 00:12:16] restart: Requested by Console
+[2026-08-24 00:12:16] restart: Resource 'test_world' restarting...
+[2026-08-24 00:12:16] Stopping test_world
+[2026-08-24 00:12:16] Resource 'test_world' changed, reloading and starting
+[2026-08-24 00:12:16] Starting test_world
+[2026-08-24 00:12:16] test_world restarted successfully
+[2026-08-24 00:12:22] QUIT: ImpartialBurglar42 left the game [Quit] 
+[2026-08-24 00:12:25] CONNECT: ImpartialBurglar42 connected (IP: 192.168.1.74  Serial: 1DD71214348F60C9C89E222CCEC580B2  Version: 1.6.0-9.24140.0)
+[2026-08-24 00:12:25] JOIN: ImpartialBurglar42 joined the game (IP: 192.168.1.74)
+[2026-08-24 00:12:43] LOGIN: (Everyone, Admin) ImpartialBurglar42 successfully logged in as 'peter' (IP: 192.168.1.74  Serial: 1DD71214348F60C9C89E222CCEC580B2)
+[2026-08-24 00:13:03] ADMIN: ImpartialBurglar42 has given ImpartialBurglar42 a 'Banshee'" 
+[2026-08-24 00:13:20] QUIT: ImpartialBurglar42 left the game [Quit] 
+[2026-08-24 00:13:22] CONNECT: ImpartialBurglar42 connected (IP: 192.168.1.74  Serial: 1DD71214348F60C9C89E222CCEC580B2  Version: 1.6.0-9.24140.0)
+[2026-08-24 00:13:22] JOIN: ImpartialBurglar42 joined the game (IP: 192.168.1.74)
+[2026-08-24 00:13:32] LOGIN: (Everyone, Admin) ImpartialBurglar42 successfully logged in as 'peter' (IP: 192.168.1.74  Serial: 1DD71214348F60C9C89E222CCEC580B2)
+[2026-08-24 00:13:36] ADMIN: ImpartialBurglar42 has given ImpartialBurglar42 a 'Banshee'" 
+[2026-08-24 00:16:15] restart: Requested by Console
+[2026-08-24 00:16:15] restart: Resource 'test_world' restarting...
+[2026-08-24 00:16:15] Stopping test_world
+[2026-08-24 00:16:15] Resource 'test_world' changed, reloading and starting
+[2026-08-24 00:16:15] Starting test_world
+[2026-08-24 00:16:15] test_world restarted successfully
+[2026-08-24 00:16:19] QUIT: ImpartialBurglar42 left the game [Quit] 
+[2026-08-24 00:16:20] CONNECT: ImpartialBurglar42 connected (IP: 192.168.1.74  Serial: 1DD71214348F60C9C89E222CCEC580B2  Version: 1.6.0-9.24140.0)
+[2026-08-24 00:16:21] JOIN: ImpartialBurglar42 joined the game (IP: 192.168.1.74)
+[2026-08-24 00:16:57] LOGIN: (Everyone, Admin) ImpartialBurglar42 successfully logged in as 'peter' (IP: 192.168.1.74  Serial: 1DD71214348F60C9C89E222CCEC580B2)
+[2026-08-24 00:17:06] ADMIN: ImpartialBurglar42 has given ImpartialBurglar42 a 'Banshee'" 
