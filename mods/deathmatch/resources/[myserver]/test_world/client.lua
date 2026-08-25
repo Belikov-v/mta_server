@@ -2,8 +2,6 @@ local ROAD_MODEL_ID = 1337
 
 addEventHandler("onClientResourceStart", resourceRoot, function()
 
-    outputChatBox("CLIENT STARTED", 0, 255, 0)
-
     removeGameWorld()
 
     -- COL
